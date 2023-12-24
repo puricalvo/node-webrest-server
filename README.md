@@ -3,4 +3,5 @@
 
 # Dev
 
-1. Crear el .env y clonarlo a .env.template
+1. Clonar el .env.template y crear el .env
+2. Ejecutar el comando de ```docker compose up -d``` para conectarte a la base de datos.
